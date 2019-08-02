@@ -1,0 +1,39 @@
+assets/component/ie-fixer/jquery-1.12.4.min.js
+assets/component/ie-fixer/html5shiv.js
+assets/component/ie-fixer/respond.min.js
+assets/component/ie8-ie9/css/bootstrap-ie8.css
+assets/component/ie8-ie9/css/bootstrap-ie9.css
+assets/component/ie8-ie9/js/bootstrap-ie8.js
+assets/component/ie8-ie9/js/bootstrap-ie9.js
+
+  
+  <!--[if lt IE 9]>
+    <script src="assets/component/ie-fixer/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="assets/component/ie-fixer/respond.min.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+  <![endif]-->
+  <!--[if IE 9]>
+    <script src="assets/component/ie8-ie9/js/bootstrap-ie9.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/coliff/bootstrap-ie8/js/bootstrap-ie9.min.js"></script>
+  <![endif]-->
+  <!--[if lte IE 8]>
+    <script src="assets/component/ie-fixer/jquery-1.12.4.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="assets/component/ie8-ie9/js/bootstrap-ie8.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/coliff/bootstrap-ie8/js/bootstrap-ie8.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.js"></script>
+  <![endif]-->
+  
+
+  <!--[if IE 9]>
+    <link href="assets/component/ie8-ie9/css/bootstrap-ie9.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/gh/coliff/bootstrap-ie8/css/bootstrap-ie9.min.css" rel="stylesheet">
+  <![endif]-->
+  <!--[if lte IE 8]>
+    <link href="assets/component/ie8-ie9/css/bootstrap-ie8.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/gh/coliff/bootstrap-ie8/css/bootstrap-ie8.min.css" rel="stylesheet">
+  <![endif]-->  
+  
+  
